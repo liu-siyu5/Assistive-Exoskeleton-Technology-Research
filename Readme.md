@@ -21,7 +21,6 @@ A Python toolbox for analysing human gait biomechanics by computing **ankle join
 7. [Underlying Method](#underlying-method)
 8. [Troubleshooting](#troubleshooting)
 9. [Contributing](#contributing)
-10. [License](#license)
 
 ---
 
