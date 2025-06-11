@@ -2,7 +2,7 @@
 
 A Python toolbox for analysing human gait biomechanics by computing **ankle joint torque** from marker‐based kinematics and dual‐belt treadmill force–plate data. The code automatically discovers data files, aligns coordinate systems, calculates joint moments (τ = r × F), and generates ready‑to‑publish plots & CSV summaries.
 
-![Pipeline schematic](docs/figs/pipeline_overview.png)
+![Pipeline schematic](docs/fig.png)
 
 ---
 
